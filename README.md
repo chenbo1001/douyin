@@ -69,6 +69,7 @@ Netlify：[https://douyins.netlify.app](https://douyins.netlify.app) (需要翻�
 5. 执行`pnpm dev`来启动项目，项目默认地址为[`http://localhost:3000`](http://localhost:3000)
 6. 在浏览器中打开[`http://localhost:3000`](http://localhost:3000) 来访问项目。 `Chrome` 切换成手机模式快捷键，先按 `F12` 调出控制台，再按 `Ctrl+Shift+M`（设备仿真模拟）
 
+
 ## 功能与建议
 
 目前项目处于开发初期，新功能正在持续添加中，如果你对软件有任何功能与建议，欢迎在 `Issues` 中提出
